@@ -1,7 +1,5 @@
-<!-- ===================== BANNER ===================== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:928DAB&height=200&section=header&text=Rebecca%20Rodriges&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:928DAB&height=200&section=header&text=Rebecca%20Rodrigues&fontSize=40&fontColor=ffffff" />
 </p>
 
 # Hi, I'm Rebecca Rodrigues
@@ -17,8 +15,7 @@ I am an aspiring Data Analyst with a strong foundation in data analysis, busines
 Currently:
 - Preparing for CAT 2026  
 - Writing a research paper on  
-  **"Embedded Finance Revolution: How Non-Banking Apps Like Swiggy and Zepto Are Disrupting Traditional Indian Banking in 2026"**  
-- Strengthening analytical and technical skills  
+  **"Embedded Finance Revolution: How Non-Banking Apps Like Swiggy and Zepto Are Disrupting Traditional Indian Banking in 2026"** - Strengthening analytical and technical skills  
 
 ---
 
@@ -80,8 +77,6 @@ Dynamic financial model integrating Income Statement, Balance Sheet, and Cash Fl
 - Project Management Trainee – Siemens  
 - Technical Consultant – SAP  
 
-
-
 ---
 
 ## 🎯 Career Focus
@@ -94,11 +89,11 @@ Actively seeking roles as:
 
 ## 🌐 Portfolio & Contact
 
-🌐 Portfolio:  
-https://sites.google.com/view/rebecca-rodrigues/home  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-rodrigues-2506983b6)
 
-📧 Email:  
-rodriguesrebeccar@gmail.com  
+🌐 **Portfolio:** [https://sites.google.com/view/rebecca-rodrigues/home](https://sites.google.com/view/rebecca-rodrigues/home)  
+
+📧 **Email:** rodriguesrebeccar@gmail.com  
 
 ---
 
